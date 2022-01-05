@@ -1,6 +1,6 @@
 # CirclePercentage
 # 圆环百分比
-![preview](https://user-images.githubusercontent.com/70566070/148186782-0f8e43a7-5876-452c-beed-199c825725eb.png)
+![preview](https://user-images.githubusercontent.com/70566070/148188661-0205df34-1758-4b42-a285-533014f16b8e.png)
 
 ## 使用方法
 ```
