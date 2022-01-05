@@ -1,4 +1,3 @@
-# CirclePercentage
 # 圆环百分比
 ![preview](https://user-images.githubusercontent.com/70566070/148188661-0205df34-1758-4b42-a285-533014f16b8e.png)
 
